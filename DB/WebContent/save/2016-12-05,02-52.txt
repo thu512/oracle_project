@@ -1,0 +1,8 @@
+kind      major     id        name         phone               email               
+pro       SW        jisubk95  김지섭       010-2301-4997       jisubk95@naver.com  
+pro       NET       major     전문가       010-1234-1234       major@naver.com     
+pro       SW        thu512    이창주       010-5120-4002       thu512@naver.com    
+nomal     NET       test      이창주       010-5120-4002       thu512@naver.com    
+pro       HW        shamyook  삼육대       010-3636-3636       samyook@naver.com   
+pro       etc       computer  컴퓨터       010-3333-3333       computer@naver.com  
+nomal     SW        test3     이창주       010-5120-4002       thu512@naver.com    
